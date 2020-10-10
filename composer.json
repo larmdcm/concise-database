@@ -1,0 +1,21 @@
+{
+    "name": "larmdcm/concise-database",
+    "description": "This is a simple PHP database package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "larmdcm",
+            "email": "mdcm98@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.12"
+    },
+    "autoload":{
+        "psr-4": {
+            "Concise\\Database\\": "src/"
+        }
+    }
+}
