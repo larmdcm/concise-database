@@ -1,6 +1,6 @@
 <?php
 
-namespace Concise\Database\Collection;
+namespace Concise\Database;
 
 use ArrayAccess;
 use ArrayIterator;
